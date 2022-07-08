@@ -11,7 +11,10 @@ Your Mart is a full stack shopping application which aim is to buy fruits, dairy
 
 ## Screenshots
 
-![App Screenshot](img1)
+![App Screenshot](https://github.com/Harendra84/your-mart/blob/main/img1.png)
+
+![App Screenshot](https://github.com/Harendra84/your-mart/blob/main/img2.png)
+
 
 
 ## Authors
